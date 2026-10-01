@@ -25,7 +25,7 @@ html, body {
 
 body {
     
-    background-url: url('assets/IMG_0895.gif');
+    background: url('assets/IMG_0895.gif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
